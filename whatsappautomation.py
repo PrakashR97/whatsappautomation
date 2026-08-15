@@ -19,11 +19,6 @@ contacts = [
         "message": "Hi {name}, this is a personalized message."
     },
     {
-        "name": "Indhu",
-        "number": "9876543211",
-        "message": "Hello {name}, hope you are doing well!"
-    },
-    {
         "name": "Nataraj",
         "number": "9876543211",
         "message": "Hello {name}, hope you are doing well!"
