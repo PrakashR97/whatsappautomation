@@ -3,56 +3,42 @@
         "name": "Prakash",
         "number": "9876543210",
         "last_3_messages": [
-            "Hi Prakash, this is a personalized message.\n12:13",
-            "Hi Prakash, this is a personalized message.\n12:28",
-            "Hi Prakash, this is a personalized message.\n12:43"
+            "Hi Prakash, this is a personalized message.\n12:43",
+            "Hi Prakash, this is a personalized message.\n12:48",
+            "Hi Prakash, this is a personalized message.\n13:15"
         ],
         "personalized_message": "Hi Prakash, this is a personalized message.",
         "status": "SUCCESS",
         "screenshot": "screenshots/Prakash.png",
         "error": null,
-        "processed_at": "2026-08-15T12:48:51.286643"
-    },
-    {
-        "name": "Indhu",
-        "number": "9876543211",
-        "last_3_messages": [
-            "My back pain\n12:48",
-            "And brain heart are gone\n12:48",
-            "Iam extremely sorry\n12:48"
-        ],
-        "personalized_message": "Hello Indhu, hope you are doing well!",
-        "status": "SUCCESS",
-        "screenshot": "screenshots/Indhu.png",
-        "error": null,
-        "processed_at": "2026-08-15T12:49:02.823603"
+        "processed_at": "2026-08-15T13:17:10.650908"
     },
     {
         "name": "Nataraj",
         "number": "9876543211",
         "last_3_messages": [
-            "Hello Nataraj, hope you are doing well!\n12:14",
-            "Hello Nataraj, hope you are doing well!\n12:29",
-            "Hello Nataraj, hope you are doing well!\n12:43"
+            "Hello Nataraj, hope you are doing well!\n12:43",
+            "Hello Nataraj, hope you are doing well!\n12:49",
+            "Hello Nataraj, hope you are doing well!\n13:15"
         ],
         "personalized_message": "Hello Nataraj, hope you are doing well!",
         "status": "SUCCESS",
         "screenshot": "screenshots/Nataraj.png",
         "error": null,
-        "processed_at": "2026-08-15T12:49:14.198313"
+        "processed_at": "2026-08-15T13:17:22.266487"
     },
     {
-        "name": "Balaji",
+        "name": "Raja",
         "number": "9876543211",
         "last_3_messages": [
-            "Bot onnu create pannan da\n12:44",
-            "Adhan test pannitu Iranian\n12:44",
-            "Super da \n12:47"
+            "Drama Queens Jyotika, Devadarshini, Julie & Drama Kings Vetrimaaran, Pa. Ranjith & Co. EXPOSED \nThe Ahmed Meeran Podcast (Ep 2): https://www.youtube.com/watch?v=Bd...\nyoutube.com\nhttps://youtu.be/cKHU_wmpLlE?si=n8_JIKo490qO-TA7\n18:12",
+            "Hello Raja, hope you are doing well!\n13:15",
+            "Not well\n13:17"
         ],
-        "personalized_message": "Hello Balaji, hope you are doing well!",
+        "personalized_message": "Hello Raja, hope you are doing well!",
         "status": "SUCCESS",
-        "screenshot": "screenshots/Balaji.png",
+        "screenshot": "screenshots/Raja.png",
         "error": null,
-        "processed_at": "2026-08-15T12:49:25.558372"
+        "processed_at": "2026-08-15T13:17:33.665801"
     }
 ]

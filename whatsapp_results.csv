@@ -1,17 +1,16 @@
 ﻿Name,Number,Last Message 1,Last Message 2,Last Message 3,Personalized Message,Status,Screenshot,Error,Processed At
 Prakash,9876543210,"Hi Prakash, this is a personalized message.
-12:13","Hi Prakash, this is a personalized message.
-12:28","Hi Prakash, this is a personalized message.
-12:43","Hi Prakash, this is a personalized message.",SUCCESS,screenshots/Prakash.png,,2026-08-15T12:48:51.286643
-Indhu,9876543211,"My back pain
-12:48","And brain heart are gone
-12:48","Iam extremely sorry
-12:48","Hello Indhu, hope you are doing well!",SUCCESS,screenshots/Indhu.png,,2026-08-15T12:49:02.823603
+12:43","Hi Prakash, this is a personalized message.
+12:48","Hi Prakash, this is a personalized message.
+13:15","Hi Prakash, this is a personalized message.",SUCCESS,screenshots/Prakash.png,,2026-08-15T13:17:10.650908
 Nataraj,9876543211,"Hello Nataraj, hope you are doing well!
-12:14","Hello Nataraj, hope you are doing well!
-12:29","Hello Nataraj, hope you are doing well!
-12:43","Hello Nataraj, hope you are doing well!",SUCCESS,screenshots/Nataraj.png,,2026-08-15T12:49:14.198313
-Balaji,9876543211,"Bot onnu create pannan da
-12:44","Adhan test pannitu Iranian
-12:44","Super da 
-12:47","Hello Balaji, hope you are doing well!",SUCCESS,screenshots/Balaji.png,,2026-08-15T12:49:25.558372
+12:43","Hello Nataraj, hope you are doing well!
+12:49","Hello Nataraj, hope you are doing well!
+13:15","Hello Nataraj, hope you are doing well!",SUCCESS,screenshots/Nataraj.png,,2026-08-15T13:17:22.266487
+Raja,9876543211,"Drama Queens Jyotika, Devadarshini, Julie & Drama Kings Vetrimaaran, Pa. Ranjith & Co. EXPOSED 
+The Ahmed Meeran Podcast (Ep 2): https://www.youtube.com/watch?v=Bd...
+youtube.com
+https://youtu.be/cKHU_wmpLlE?si=n8_JIKo490qO-TA7
+18:12","Hello Raja, hope you are doing well!
+13:15","Not well
+13:17","Hello Raja, hope you are doing well!",SUCCESS,screenshots/Raja.png,,2026-08-15T13:17:33.665801

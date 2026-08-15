@@ -24,7 +24,7 @@ contacts = [
         "message": "Hello {name}, hope you are doing well!"
     },
     {
-        "name": "Balaji",
+        "name": "Raja",
         "number": "9876543211",
         "message": "Hello {name}, hope you are doing well!"
     }
